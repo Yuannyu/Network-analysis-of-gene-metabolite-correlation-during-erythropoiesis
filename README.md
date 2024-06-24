@@ -1,1 +1,1 @@
-# Network-analysis-of-gene-metabolite-correlation-during-erythropoiesis
+# Integrative analysis of RNA-Seq and metabolic data
