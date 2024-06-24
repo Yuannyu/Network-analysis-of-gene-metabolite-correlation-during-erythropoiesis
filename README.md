@@ -9,7 +9,10 @@ This repository contains the code and data required for time series analysis and
 (3) Network_analysis.r: combine RNA-Seq data and metabolic data to built a correlation network. Calcualte a normalized connectivity score to prioritize genes and metabolites.
 
 
+Dependencies
+R packages maSigPro, ComplexHeatmap, gplots, RColorBrewer, pROC, colorspace, ggplot2, stringr are needed for the analyses.
 
-Data:
+
+Data
 
 All required data could be found in the 'Data' folder.
