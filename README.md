@@ -1,4 +1,4 @@
-Integrative analysis of RNA-Seq and metabolic data.
+#Integrative analysis of RNA-Seq and metabolic data.
 
 This repository contains the code and data required for time series analysis and network anlaysis of RNA-Seq data and metabolic data. The analyses code was written in R and contain three parts.
 
