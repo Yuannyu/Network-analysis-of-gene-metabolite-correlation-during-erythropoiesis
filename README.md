@@ -4,7 +4,7 @@ This repository contains the code and data required for time series analysis and
 
 (1) Time_series_analysis.r: perform time series analysis for genes/metabolites using R package maSigpro and identify three patterns.
 
-(2) Pathway_analysis_of_three_clusters.r: perform pathway analysis for three clusters of genes from step #1 and draw dot plot.
+(2) Pathway_analysis_of_three_clusters.r: perform pathway analysis for three clusters of genes from step #1 and draw dot plots.
 
 (3) Network_analysis.r: combine RNA-Seq data and metabolic data to built a correlation network. Calcualte a normalized connectivity score to prioritize genes and metabolites.
 
